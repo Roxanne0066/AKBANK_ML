@@ -88,7 +88,7 @@ Bu proje, yapay zeka ve makine öğrenmesi alanındaki temel becerileri pekişti
 # LİNKLER
 
 ## Dataset link : https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection
-Kaggle çalışma ortamı : https://www.kaggle.com/code/emredem1rr/akbank-ml-bootcamp
+## Kaggle çalışma ortamı : https://www.kaggle.com/code/emredem1rr/akbank-ml-bootcamp
 
 
 
